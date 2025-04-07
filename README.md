@@ -1,0 +1,1 @@
+MPU6050+NRF24L01P+BMP280 and STM32 PCB Design with Altium
